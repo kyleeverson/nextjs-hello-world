@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <div>
       Hello World!!!!!{" "}
-      <Link href="/about">
+      {/* <Link href="/about">
         About
-      </Link>
+      </Link> */}
     </div>
   );
 }
