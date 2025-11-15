@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from '../header';
 import './css/header.css';
 
 {/* Header will go here */}
